@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="0; URL=https://discopload.vercel.app/" />
 <div align="center">
 	<br />
 		<a href="https://discopload.vercel.app"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/discopload-logo.png" width="546" alt="Discopload" /></a>
