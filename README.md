@@ -6,7 +6,7 @@
   
 The best choice for you to send over files on discord.
 
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/buy-me-a-coffee.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> <a href="https://vercel.com/?utm_source=discordjs&utm_campaign=oss"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-vercel.svg" alt="Vercel" /></a>
+<a href="https://buymeacoffee.com/raphaeljchen" target="_blank"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/buy-me-a-coffee.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> <a href="https://discopload.vercel.app"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-vercel.svg" alt="Vercel" /></a>
 
 ---
 <div align="left">
