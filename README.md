@@ -24,11 +24,11 @@ Discopload is a website where you can upload large files to get a link which you
 ## Guide
 
 Steps for Uploading:
-1. Head over to [Discopload's Website](https://discopload.vercel.app)
+1. Head over to [Discopload's Website](https://discopload.github.io)
 2. Drag the files to the Upload Section or Click on the Upload Button and Choose Files
 3. Wait for the files to upload
 4. Copy the link given and send it over on discord
 
 ## Learn More
 
-If you seek learning more about Discopload, check out the [website](https://discopload.vercel.app).
+If you seek learning more about Discopload, check out the [website](https://discopload.github.io).
