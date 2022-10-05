@@ -1,5 +1,5 @@
 <link rel="icon" href="./pages/favicon.ico" />
-<meta http-equiv="refresh" content="; URL=https://discopload.vercel.app/" />
+<meta http-equiv="refresh" content="0; URL=https://discopload.vercel.app/" />
 <div align="center">
 	<br />
 		<a href="https://discopload.github.io"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/discopload-logo.png" width="546" alt="Discopload" /></a>
