@@ -1,6 +1,6 @@
 <div align="center">
 	<br />
-		<a href="https://discord.js.org"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/discopload-logo.png" width="546" alt="discord.js" /></a>
+		<a href="https://discopload.vercel.app"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/discopload-logo.png" width="546" alt="Discopload" /></a>
 	<br />
 	<p>
   
