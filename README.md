@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+	<br />
+		<a href="https://discord.js.org"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/discopload-logo.png" width="546" alt="discord.js" /></a>
+	<br />
+	<p>
+  
+The best choice for you to send over files on discord.
+
+<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://raw.githubusercontent.com/Discopload/discopload.github.io/main/assets/buy-me-a-coffee.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> <a href="https://vercel.com/?utm_source=discordjs&utm_campaign=oss"><img src="https://raw.githubusercontent.com/discordjs/discord.js/main/.github/powered-by-vercel.svg" alt="Vercel" /></a>
+
+---
+<div align="left">
 
 ## Getting Started
 
