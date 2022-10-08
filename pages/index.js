@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Discopload - Home</title>
         <meta name="description" content="Made by Raphael J. Chen" />
-        <link rel="icon" href="./favicon.ico" />
+        <link rel="icon" href="https://bit.ly/3T8mHBa" />
       </Head>
 
       <main className={styles.main}>
